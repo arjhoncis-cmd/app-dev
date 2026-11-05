@@ -1,2 +1,3 @@
-# app-dev
-My first repository
+# Spider-Man: No Way Home
+**My first Favorite Movie**
+With Spider-Man's identity now revealed, our friendly neighborhood web-slinger is unmasked and no longer able to separate his normal life as Peter Parker from the high stakes of being a superhero. When Peter asks for help from Doctor Strange, the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.
